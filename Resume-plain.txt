@@ -1,0 +1,82 @@
+SIDHARTH RAMESH
+Mississauga ON | sidharth177@gmail.com | www.linkedin.com/in/sidharthramesh
+PROFILE
+
+* Data Engineer with 3 years of experience working in big data technologies with focus for solving analytical enterprise problems 
+* Goal oriented and self-driven with strong written and oral communication skills. 
+* Recognized for consistent high performance, team driven innovation and integrity.
+
+Soft Skills:    Agile, DevOps, Visualization, project management, customer service, data model design, process improvement, communication, troubleshooting
+
+Tech Skills:	Scripting Skills: Python, Linux Shell scripting
+		Computation: Matlab 
+		Database Skills: SQL server, PostgreSQL, MySQL, AWS Redshift, MongoDB
+                Reporting: Tableau, Jasper, Apache supersets, Apache Zepplin
+                Web Development: HTML, Drupal, Django
+                Automation: Ansible, Jenkins, SSIS
+                Big Data: Hadoop, Ambari, Hue, Zepplin, Hive, Oozie, Spark
+                Operating Systems: Windows 7,10, Redhat Enterprise Linux 7+, Ubuntu 12+
+                GitHub Link: https://github.com/sidhu177
+PROFESSIONAL EXPERIENCE
+
+Data Engineer 
+Goeasy Ltd, Mississauga, Toronto Metro Area                                                                       March 2019 – Present
+* Develop and maintain ETL pipeplines using SSIS and SQL Server
+* Automate tasks using powershell
+* Modernize ETL infrastructure using Azure cloud compute resources
+* Pilot and recommend new and upcoming infrastructure tools and applications for analytics and data engineering
+
+Data Analyst                                                                                                                           April 2016 - Jan 2019
+Karsun Solutions, Washington DC Metro Area                                                     
+Enterprise modernization team supporting General Services Administration (GSA) on cloud migration using Amazon Web Services (AWS) and Agile DevOps 
+* Analyzed Big data sets and constructed interactive User Dashboards in Tableau
+* Worked in Hadoop Big Data Environment, configuring and testing Hadoop services
+* Performed Tableau server administration for server installations , user provisioning and maintenance
+* Created Ad-Hoc queries and reports using AWS Redshift
+* Developed proof of concept using components like apache zepplin, hadoop and spark in AWS cloud environment and demonstrated data visualization workflow for client use and exploration
+* Implemented cloud multi layered architecture using Amazon Web Services (AWS) components using orchestration tools like Ansible to build Drupal CMS solution to enable client access to their data using web portals  
+* Developed expertise in analytics for preparing advanced capabilities for data exploration using machine learning using python’s mxnet library
+* Developed business and analytical reports for Transactional Data Repository (TDR) - federal transactional data website using multiple cloud tools like AWS Redshift and reporting tool - Jasper using SQL and NoSQL databases
+* Achieved data quality by devising solution to identify data inconsistencies in website database and implemented solution aimed at rectifying inconsistency which lead to better code upgrades and accurate financial reporting to the client Created stories and tasks with respect to customer requirements on project roadmap
+* Created and implemented data model for ETL from NoSQL databases like MongoDB and SQL data warehouses like AWS Redshift for enterprise data archival and easier financial reporting
+* Created written and video instructional content for users new to Tableau Server environment on using the tool for self-service analytics
+* Provided operational support for two production websites using CI/CD 
+
+Marketing Intern, Yamaha Motors                                                              June 2013 – Aug 2013
+Hyderabad, India                                      
+Automotive company that operates in domestic and luxury segments for the two wheeler market  
+* Designed email Marketing solution for Yamaha Motor Bikes
+* Created reports on customer reaction using visualizations
+* Applied Data Analysis to understand demographic trends for automobile marketing campaigns
+* Created summary reports explaining trends and impact of marketing campaigns 
+
+EDUCATION & PROFESSIONAL DEVELOPMENT  
+
+Master of Science in Mechanical Engineering                                                   Sept 2013 – Feb 2016
+Rose-Hulman Institute of Technology, Terre Haute, IN , GPA: 3.61/4.0
+* Implementation of Space Time Finite Element Formulation in Elastodynamics - Grad Thesis - Feb 2016
+                               
+Bachelors of Technology in Mechanical Engineering 				              Oct 2007 – April 2011
+Jawaharlal Nehru Technological University, Hyderabad, India 
+       
+Professional Development 
+* Red hat training on Openshift , Ansible and DevSecOps                                           Oct 2018
+* Tableau Desktop 10 Qualified Associate Certified 	                                          Sept 2017                    				       
+ACTIVITIES
+
+Member of the Rose-Hulman EcoCar2 competition
+* Responsible for Documenting CAD changes and compiling Technical reports
+* Staff Writer at Rose-Thorn -Weekly University Newspaper, Rose-Hulman Institute of Technology 
+* Active member of AWS and data technology meetups in Northern Virginia 
+
+Organised many events as a part of International Students Association Executive committee member aimed at showcasing the Diversity and facilitating cross cultural understandings at Rose-Hulman
+* Organized a state level Tech Fest ‘Gaia’ to demonstrate ecological production of energy  
+* Built a scaled down model of the Solar Updraft tower to demonstrate the principle of energy harvesting using the dual forces of solar and wind  
+
+SPEAKING ENGAGEMENTS 
+
+* Presented on Advancements in Data Science for Cyber Security meetup                              Jan 2018
+* Presented on Intro to AWS Lambda for Northern Virginia Linux Users Group                         Sept 2018
+* Guest Host on two software engineering daily podcasts for one hour interview with reputed Data Scientists
+                                                                                                                                                                                 
+
